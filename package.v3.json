@@ -1,0 +1,14 @@
+{
+  "MTeamKeepAlive": {
+    "name": "馒头保活",
+    "description": "通过浏览器会话定期访问馒头站点，保持登录状态。",
+    "labels": "站点,保活",
+    "version": "1.0.0",
+    "author": "AnonyQ",
+    "level": 1,
+    "system_version": ">=3.0.0",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  }
+}
