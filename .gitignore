@@ -1,0 +1,8 @@
+# Browser login state and credentials
+storage_state.json
+session_storage.json
+*.storage-state.json
+*.session-storage.json
+*.cookies
+.env
+.env.*

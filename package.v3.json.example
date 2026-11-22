@@ -1,0 +1,15 @@
+{
+  "MTeamKeepAlive": {
+    "name": "馒头保活",
+    "description": "人工完成馒头登录，保存浏览器登录态，并按周期访问站点。",
+    "labels": "站点,保活",
+    "version": "1.0.0",
+    "icon": "Moviepilot_A.png",
+    "author": "AnonyQ",
+    "level": 1,
+    "system_version": ">=3.0.0",
+    "history": {
+      "v1.0.0": "初始版本：支持人工登录、浏览器状态保存和周期访问。"
+    }
+  }
+}
